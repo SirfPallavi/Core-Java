@@ -1,0 +1,16 @@
+public class Basics {
+    public static void main(String[] args) {
+
+        // Variables & Data Types
+        int age = 20;          // integer variable
+        double salary = 25000.50;  // double variable
+        char grade = 'A';      // character literal
+        boolean isActive = true; // boolean literal
+
+        // Output
+        System.out.println("Age: " + age);
+        System.out.println("Salary: " + salary);
+        System.out.println("Grade: " + grade);
+        System.out.println("Active: " + isActive);
+    }
+}
